@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 - 👯 Open to collaborations on **backend projects and API development**.  
 - 💬 Ask me about **Java, Spring Boot, MySQL, H2 Database, and software engineering practices**.  
 - 📫 Reach me at: [neoseboka25@gmail.com](mailto:neoseboka25@gmail.com)  
-- ⚡ Fun fact: I enjoy **LeetCode challenges** and working on **real-world backend projects**.  
+- ⚡ Fun fact: I enjoy working on **real-world projects**.  
 
 ---
 
