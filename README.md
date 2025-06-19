@@ -24,6 +24,9 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoSBK&layout=compact)
+
+
 ### **Frameworks & Libraries**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
