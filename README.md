@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 ---
 
 ### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoSBK&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=java-project-1,java-project-2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoSBK&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=ultimate-rest-apis,java-Waste-Sorting-Api)
 
 
 ### **Frameworks & Libraries**  
