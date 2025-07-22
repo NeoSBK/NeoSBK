@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 
 ### **Frameworks & Libraries**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ### **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -39,6 +40,13 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 
 ---
 
+## 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoSBK&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🚀 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neo-seboka-192208250/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neoseboka25@gmail.com)  
+
