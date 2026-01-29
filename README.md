@@ -1,15 +1,47 @@
 # Hi there, I'm Neo! 👋  
 
-Welcome to my GitHub profile! I'm passionate about **software engineering, and building RESTful APIs**. I love solving problems and continuously expanding my skill set.  
+Welcome to my GitHub profile! I'm passionate about **software engineering and building RESTful APIs**. I love solving problems and continuously expanding my skill set.  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🌱 Currently Learning **Spring Boot** and **Front end development**.  
-- 👯 Open to collaborations on **backend projects and API development**.  
-- 💬 Ask me about **Java, Spring Boot, MySQL, H2 Database, and software engineering practices**.  
+- 🌱 Currently Learning **Spring Boot** and **Front-End Development**  
+- 👯 Open to collaborations on **backend projects and API development**  
+- 💬 Ask me about **Java, Spring Boot, MySQL, H2 Database, and software engineering practices**  
 - 📫 Reach me at: [neoseboka25@gmail.com](mailto:neoseboka25@gmail.com)  
-- ⚡ Fun fact: I enjoy working on **real-world projects**.  
+- ⚡ Fun fact: I enjoy working on **real-world projects**  
+
+---
+
+## 🚀 Projects  
+
+### 📝 To-Do List App (React + Vite)  
+**Tech:** React, Vite, JavaScript, Light/Dark Theme  
+🔗 Live Demo: https://neosbk.github.io/ToDo-List-App/  
+
+- Developed a responsive and interactive To-Do List web application using **React and Vite**  
+- Implemented task creation, toggle complete, delete task functionality  
+- Added filters (**All, Active, Completed**) and clear completed tasks  
+
+---
+
+### 📊 Survey Management System (Full-Stack)  
+**Tech:** Java, Spring Boot, HTML, CSS, JavaScript, H2 Database  
+🔗 Live Demo: https://neosbk.github.io/survey-api/index.html  
+
+- Developed a full-stack survey application using **Java and Spring Boot**  
+- Built a static frontend with **HTML, CSS, and JavaScript**  
+- Implemented database integration using **H2** and optimized data handling with **DTOs**  
+- Designed and implemented **RESTful APIs** for survey data management  
+
+---
+
+### 🧮 Calculator App (React + Vite)  
+**Tech:** React, Vite, JavaScript  
+🔗 Live Demo: https://neosbk.github.io/Calculator-React-App/  
+
+- Built as a practice project to strengthen understanding of **React components and state management**  
+- Implemented a **mobile-friendly design** using media queries  
 
 ---
 
@@ -40,7 +72,7 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoSBK&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,4 +81,3 @@ Welcome to my GitHub profile! I'm passionate about **software engineering, and b
 ### 🚀 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neo-seboka-192208250/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neoseboka25@gmail.com)  
-
